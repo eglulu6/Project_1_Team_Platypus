@@ -6,7 +6,7 @@
 * H<sub>o</sub>: 
   Looking at wildfires across the United States, there is no change in data breaches within that state?
 * H<sub>A</sub>:
-  Looking at wildfires across the United States, between xx and xx,  is there an increase in data breaches within that state?
+  Looking at wildfires across the United States, between 2008 and 2014, is there an increase in data breaches in the state the fire occured?
 
 
 # Questions Answered:
