@@ -4,9 +4,9 @@
 # Premise:
 
 * H<sub>o</sub>: 
-  Looking at wildfires across the United States, there is no change in data breaches within that state?
+  Looking at wildfires, between 2008 and 2014, in TX & CA there is no change in data breaches within the state where the wildfires occured?
 * H<sub>A</sub>:
-  Looking at wildfires across the United States, between 2008 and 2014, is there an increase in data breaches in the state the fire occured?
+  Looking at wildfires, between 2008 and 2014, in TX & CA is there an increase in data breaches in the state the fire occured?
 
 
 # Questions Answered:
