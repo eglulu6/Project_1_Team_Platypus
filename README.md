@@ -11,13 +11,8 @@
 
 # Questions Answered:
 
-<<<<<<< HEAD
-**How large are the fires being considered?** 
-* 
-=======
 **How did you decide on your hypothesis?**
 * abc
->>>>>>> 2c0d6874c893edb838362d605f44f37c32cbc2d2
     
 **How is data breach defined?**
 * abc
