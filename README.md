@@ -17,7 +17,7 @@ Looking at wildfire occurrences across the continental United States between�
 
     
 **How is data breach defined?**
-* Per the data set we used, 'data breach' is defined an incident where secured information is stolen, taken, or exposed from a system without the knowledge and/or authorization of the system's owner. This includes breaches of both virtual and physical nature from both internal and external points of access.
+* Per the data set we used, 'data breach' is defined as an incident where secured information is stolen, taken, or exposed from a system without the knowledge and/or authorization of the system's owner. This includes breaches of both virtual and physical nature from both internal and external points of access.
     
 **What data did you use and how did you find it?**
 * For our data sources, we used both Kaggle and APIs. For our cyber crime data, we found a data set on cyber data breaches on Kaggle. For the wildfire data, we use the FEMA open API to pull data on wildfires.
