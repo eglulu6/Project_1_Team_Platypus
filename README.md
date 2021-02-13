@@ -7,9 +7,8 @@ Looking at wildfire occurrences across the continental United States between�
   When wildfires occur in a specific state, there is no change in data breaches within that state.
 * H<sub>A</sub>: 
   When wildfires occur in a specific state, there is an increase in data breaches within that state.
-
-	
-
+  
+---
 # How we got started:
 
 **How did you decide on your hypothesis?**
@@ -28,18 +27,35 @@ Looking at wildfire occurrences across the continental United States between�
 **How did you decide what information to focus on?**
 * In order to narrow down the scope of our analysis to be scientifically measurable, we decided to mainly focus on the state and the date of each event. Both the cyber data breach data set and the wildfire data set contained these two attributes for each event listed. 
     
+---  
 # What we found:
-![](images/combo_box_plot.png)
 
+We accepted the null hypothisis according to this data set. With a Pval of 4.8E-53 we felt confident thsi was a reliable conclusion. After reviewing our plots we can visually observe this.
+* The line chart shows that breach & fire counts per year generally moved in opposite directions.
+* Our combo box plot demonstrates the data sets were distributed in opposite extremes.
+* Our bar charts represent years and states with different highs and lows with little to no commonality.
+We did find interesting information in our data:
+* The pie chart shows a shocking majority of fires in Texas as compared to our expectation of California.
+* Our line chart shows huge amounts of fire in 2011 compared to the year before.
+---
 # Limitations:
 
+We felt with more time and resources we would have liked to . . .
+* Gather more data from alternate sources on both sets to verify any unusual or extreme results were true.
+* Performed deeper analysis on time delayed effects of fire on breaches.
+* If there were effects of fires in one state on data breaches on another state. 
+* Investigate for accuracy and data integrity on
+	* Why did 2014 breach counts drop so drascially?
+	* Why did 2011 have such a high fire rate compared to the previous and following years?
+	* Why was Texas fire rate so disproportional to the other states?
 
+---
 ### Team Members:
-* Pramod 
-* Lindsey
-* Juan
-* Emerald
-* Nader
+* Pramod - API Calls
+* Lindsey - Data Clean-up
+* Juan - Plotting
+* Emerald - Data Isolation and Team Admin
+* Nader - Data Clean-up and DF Builder
 
 ### Datasets Used:
 
