@@ -4,34 +4,28 @@
 # Premise:
 
 * H<sub>o</sub>: 
-  Looking at wildfires, between 2008 and 2014, in TX & CA there is no change in data breaches within the state where the wildfires occured?
+  Looking at wildfires across the United States, between 2008 and 2014, there is no change in data breaches within that state.
 * H<sub>A</sub>:
-  Looking at wildfires, between 2008 and 2014, in TX & CA is there an increase in data breaches in the state the fire occured?
+  Looking at wildfires across the United States, between 2008 and 2014, there is an increase in data breaches within that state.
 
 
 # Questions Answered:
 
-**How large are the fires being considered?** 
-  > Wildfires defined as: >= 100 acres
+**How did you decide on your hypothesis?** 
+  * 
     
 **How is data breach defined?**
-  > Data Breaches defined as: Incident that exposes confidential or protected information.
+  * 
     
-**Where did the most & least fires occur?**
+**What data did you use and how did you find it?**
+  * 
     
-**Where were the largest fires?**
+**What was your data clean up process?**
+  * 
     
-**Where did the most & least data breaches occur?**
+**How did you decide what information to focus on?**
+  * 
     
-**What is the ‘normal’ ratio of data breaches?**
-    
-**How long before and/or after a fire will we be considering as acceptable for indicators of increased data breaches?**
-    
-**How many data breaches occur outside of this range?**
-    
-**How many data breaches occur inside of this range?**
-    
-**Do the number of breaches go up or down?**
 
 
 ### Team Members:
