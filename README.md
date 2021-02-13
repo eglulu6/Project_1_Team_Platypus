@@ -10,7 +10,7 @@ Looking at wildfire occurrences across the continental United States between�
 
 	
 
-# Questions Answered:
+# How we got started:
 
 **How did you decide on your hypothesis?**
 * We initially decided to explore the relationship between natural disasters and cyber crime, but after starting the research process, we quickly realized that these topics were extremely broad in nature, so we would need to significantly narrow the scope of each of these in order find consistent data to analyze and to scientifically measure our results. So we decided to narrow 'cyber crime' down to 'cyber data breaches' and narrow 'natural disasters' down to 'wildfires'. We also narrowed the date range down to years 2008-2014 and narrowed the geographic area to the continental US. 
@@ -28,6 +28,10 @@ Looking at wildfire occurrences across the continental United States between�
 **How did you decide what information to focus on?**
 * In order to narrow down the scope of our analysis to be scientifically measurable, we decided to mainly focus on the state and the date of each event. Both the cyber data breach data set and the wildfire data set contained these two attributes for each event listed. 
     
+# What we found:
+![](images/combo_box_plot.png)
+
+# Limitations:
 
 
 ### Team Members:
