@@ -12,7 +12,7 @@
 # Questions Answered:
 
 **How large are the fires being considered?** 
-  > Wildfires defined as: >= 100 acres
+* 
     
 **How is data breach defined?**
   > Data Breaches defined as: Incident that exposes confidential or protected information.
