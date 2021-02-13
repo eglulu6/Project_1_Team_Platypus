@@ -29,11 +29,7 @@
 
 
 ### Team Members:
-* Pramod 
-* Lindsey
-* Juan
-* Emerald
-* Nader
+![](images/meet_the_team.pdf)
 
 ### Datasets Used:
 
