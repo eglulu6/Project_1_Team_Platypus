@@ -1,4 +1,5 @@
 # US Wildfires and Data Breaches
+
 --- 
 
 # Premise:
@@ -32,11 +33,11 @@ Looking at wildfire occurrences across the continental United States between�
 
 We accepted the null hypothisis according to this data set. With a Pval of 4.8E-53 we felt confident thsi was a reliable conclusion. After reviewing our plots we can visually observe this.
 * The line chart shows that breach & fire counts per year generally moved in opposite directions.
-* Our combo box plot demonstrates the data sets were distributed in opposite extremes.
-* Our bar charts represent years and states with different highs and lows with little to no commonality.
+* Our [combo box](https://github.com/eglulu6/Project_1_Team_Platypus/blob/main/Images/combo_box_plot.png) plot demonstrates the data sets were distributed in opposite extremes.
+* Our [bar charts](https://github.com/eglulu6/Project_1_Team_Platypus/tree/main/Images) represent years and states with different highs and lows with little to no commonality.
 We did find interesting information in our data:
-* The pie chart shows a shocking majority of fires in Texas as compared to our expectation of California.
-* Our line chart shows huge amounts of fire in 2011 compared to the year before.
+* The [pie chart](https://github.com/eglulu6/Project_1_Team_Platypus/blob/main/Images/FiresPie.png) shows a shocking majority of fires in Texas as compared to our expectation of California.
+* Our [line chart](https://github.com/eglulu6/Project_1_Team_Platypus/blob/main/Images/BreachFireCountline.png) shows huge amounts of fire in 2011 compared to the year before.
 ---
 # Limitations:
 
@@ -48,9 +49,10 @@ We felt with more time and resources we would have liked to . . .
 	* Why did 2014 breach counts drop so drascially?
 	* Why did 2011 have such a high fire rate compared to the previous and following years?
 	* Why was Texas fire rate so disproportional to the other states?
-
 ---
-### Team Members:
+### [Click Here](https://github.com/eglulu6/Project_1_Team_Platypus/blob/main/Wildfire_v_Breaches%20Presentation.pdf) to view the visual presentation of this information
+---
+### [Team Members:](https://github.com/eglulu6/Project_1_Team_Platypus/blob/main/Images/meet_the_team.png)
 * Pramod - API Calls
 * Lindsey - Data Clean-up
 * Juan - Plotting
